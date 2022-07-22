@@ -35,7 +35,7 @@ function setup() {
     
     population.push(scentence);
   }
-  var ch = ['i', ' ', '<', '3', ' ', 'D', '1', 'c', 'k', '!', '!', '!', '!', '!', '!'];
+  var ch = ['R', 'a', 'n', 'd', 'o', 'm', ' ', 's', 't', 'r', 'i', 'n', 'g', '!', '!'];
   maxIndiv = {
      fitness:0,
      scentence:ch
